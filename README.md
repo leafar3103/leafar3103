@@ -28,10 +28,16 @@ Esse é um espaço que estou utilizando para realizar o versionamento dos meus e
   <!--<td><img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"></td>
   <td><img align="center" alt="Az-900" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"></td>
   <td><img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></td>-->
-</tr>
+ <br /> <img align="right" alt="Rafa-pic" height="163" style="border-radius:50px;" src="https://github.com/leafar3103/leafar3103/blob/main/Perfil-png-github.png">
+  </tr>
 </table>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/leafar3103/leafar3103/blob/main/Perfil-png-github.png">
+</div>
+<div align="right" style="display: inline_block">
 
+ <br />
+ <a href = "mailto:rafaelferreira.3103@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/rafael-de-oliveira-ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
 </div>  
 
 
