@@ -11,9 +11,9 @@ Esse é um espaço que estou utilizando para realizar o versionamento dos meus e
 <div style="display: inline_block" align="center">
   <table>
     <tr>
-  <a href="https://github.com/leafar3103">
-  <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=leafar3103&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></td>
-  <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leafar3103&layout=compact&langs_count=7&theme=dark"/></td>
+  
+  <td><a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=leafar3103&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a></td>
+  <td><a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leafar3103&layout=compact&langs_count=7&theme=dark"/></a></td>
  </tr>
 </table>
 </div>
