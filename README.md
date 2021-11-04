@@ -8,7 +8,7 @@ Esse é um espaço que estou utilizando para realizar o versionamento dos meus e
 <a href="https://www.credly.com/badges/e2f283f7-fb24-4a67-8d69-fdf91dedef57"><img align="center" alt="Ai-900" height="40" width="40" src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"> </a> Ai-900 Azure AI Fundamentals<br>
 
 <h1> Meu Perfil Git</h1>
-<div align="center">
+<div align="left">
   
   <a href="https://github.com/leafar3103">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leafar3103&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
