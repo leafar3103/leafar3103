@@ -1,7 +1,15 @@
 ## Olá Seja Muito Bem Vindo!!! 
 ### Sou o Rafael estudante de Jogos Digitais na Fatec Carapicuíba - SP Brasil 👋
-Esse é um espaço que estou utilizando para realizar o versionamento dos meus estudos de forma a poder melhorar meus conhecimentos sobre DevOps.
-- Estou me capacitando para atender a demanda em Multicloud.
+Sou formado em Redes de Computadores, atuei durante muitos anos no mercado corporativo, atualmente sou empresário, com experiências no ambiente Multimidia, com as mudanças geradas nesses últimos 2 anos, eu tenho me capacitado para retornar ao mercado corporativo devido as novas oportunidades que tem surgido no mercado e principalmente a flexibilização da área. 
+Dessa maneira estou reformulando o meu git, para que possa servir para mim como uma base de conhecimentos, além é claro da possíbilidade de exibir os meus projetos, estudos. 
+O github, se tornou uma ótima opção para que eu possa realizar a documentação do meu conhecimento de uma forma ampla, o que me ajuda bastante devido a complexidade da área de games, que necessita de diversas integrações. 
+- Além do projeto de conclusão de curso da Faculdade de Games hoje tenho estudado sobre a cultura DevOps, pois devido a experiência que tive nas áreas de suporte e infra-estrutura compreender esse ambiente é um processo mais rápido. 
+A área de jogos acaba proporcionando que se conheça diversos segmentos de TI, dentre eles:
+- Infra
+- Ciências de Dados
+- IA
+
+Dessa maneira, para consolidar os meus conhecimentos e também fornecer para mim um guia de estudos, estou criando aqui no meu perfil uma Wiki, que vai me permitir tratar desses assuntos de forma mais organizada e de fácil acesso, no meu perfil. E caso alguém precise, que possa servir como referência de estudo e experiências.
 
 ### Certificações
 <a href="https://www.credly.com/badges/3cd635da-6949-4f29-882a-a3062ec06a89"><img align="center" alt="Az-900" height="40" width="40" src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"> </a> Az-900 Azure Fundamentals<br />
