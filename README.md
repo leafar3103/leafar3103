@@ -34,7 +34,7 @@ Dessa maneira, para consolidar os meus conhecimentos e também fornecer para mim
 <table border="0">
  <tr>
   <td><p align="center"> <a href="https://github.com/leafar3103/Estudo/tree/master/Java"><img align="center" alt="Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"><br /> <b>Java</b></a></p></td>
-  <td><p align="center"> <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br /><b>Python</b></p></td>
+  <td><p align="center"> <a href="#"><img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br /><b>Python</b></a></p></td>
   <!--<td><img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"></td>
   <td><img align="center" alt="Az-900" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"></td>
   <td><img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></td>-->
