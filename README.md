@@ -14,7 +14,8 @@ Dessa maneira, para consolidar os meus conhecimentos e também fornecer para mim
 ### Certificações
 <a href="https://www.credly.com/badges/3cd635da-6949-4f29-882a-a3062ec06a89"><img align="center" alt="Az-900" height="40" width="40" src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"> </a> Az-900 Azure Fundamentals<br />
 <a href="https://www.credly.com/badges/e2f283f7-fb24-4a67-8d69-fdf91dedef57"><img align="center" alt="Ai-900" height="40" width="40" src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"> </a> Ai-900 Azure AI Fundamentals<br />
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9A9C9CCBCF10527F109828507B6D056BA5EB2906FF7FC5261726889A6E22E17A" height="40" width="40" src="https://github.com/leafar3103/leafar3103/blob/main/OCI-Badge.png"> </a> OCI Foundations Associate<br />
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9A9C9CCBCF10527F109828507B6D056BA5EB2906FF7FC5261726889A6E22E17A"><img align="center" alt="Ai-900" height="40" width="40" src="https://github.com/leafar3103/leafar3103/blob/main/OCI-Badge.png"> </a> OCI Foundations Associate<br />
+
 
 <h1> Meu Perfil Git</h1>
 <div style="display: inline_block" align="center">
