@@ -1,6 +1,6 @@
 ## Olá Seja Muito Bem Vindo!!! 
-### Sou o Rafael estudante de Jogos Digitais na Fatec Carapicuíba - SP Brasil 👋
-Sou formado em Redes de Computadores, atuei durante muitos anos no mercado corporativo, atualmente sou empresário, com experiências no ambiente Multimidia, com as mudanças geradas nesses últimos 2 anos, eu tenho me capacitado para retornar ao mercado corporativo devido as novas oportunidades que tem surgido no mercado e principalmente a flexibilização da área. 
+### Sou o Rafael residente em SP-Brasil 👋
+Tenho graduação em Redes de Computadores e Desenvolvimento de Jogos Digitais, atuei durante muitos anos no mercado corporativo, atualmente sou empresário, com experiências no ambiente Multimidia, com as mudanças geradas nesses últimos 2 anos, eu tenho me capacitado para retornar ao mercado corporativo devido as novas oportunidades que tem surgido no mercado e principalmente a flexibilização da área. 
 Dessa maneira estou reformulando o meu git, para que possa servir para mim como uma base de conhecimentos, além é claro da possíbilidade de exibir os meus projetos, estudos. 
 O github, se tornou uma ótima opção para que eu possa realizar a documentação do meu conhecimento de uma forma ampla, o que me ajuda bastante devido a complexidade da área de games, que necessita de diversas integrações. 
 - Além do projeto de conclusão de curso da Faculdade de Games hoje tenho estudado sobre a cultura DevOps, pois devido a experiência que tive nas áreas de suporte e infra-estrutura compreender esse ambiente é um processo mais rápido. 
