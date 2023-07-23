@@ -1,14 +1,12 @@
 ## Olá Seja Muito Bem Vindo!!! 
 ### Sou o Rafael residente em SP-Brasil 👋
-Tenho graduação em Redes de Computadores e Desenvolvimento de Jogos Digitais, atuei durante muitos anos no mercado corporativo, atualmente sou empresário, com experiências no ambiente Multimidia, com as mudanças geradas nesses últimos 2 anos, eu tenho me capacitado para retornar ao mercado corporativo devido as novas oportunidades que tem surgido no mercado e principalmente a flexibilização da área. 
-Dessa maneira estou reformulando o meu git, para que possa servir para mim como uma base de conhecimentos, além é claro da possíbilidade de exibir os meus projetos, estudos. 
-O github, se tornou uma ótima opção para que eu possa realizar a documentação do meu conhecimento de uma forma ampla, o que me ajuda bastante devido a complexidade da área de games, que necessita de diversas integrações. 
-- Além do projeto de conclusão de curso da Faculdade de Games hoje tenho estudado sobre a cultura DevOps, pois devido a experiência que tive nas áreas de suporte e infra-estrutura compreender esse ambiente é um processo mais rápido. 
-A área de jogos acaba proporcionando que se conheça diversos segmentos de TI, dentre eles:
-- Infra
-- Ciências de Dados
-- IA
-
+- Vasta experiência na área de TI, onde minha primeira experiência profissional registrada em TI data de 2005, em todos esses anos de experiência foram marcados por grandes processos de atualização e agregação de conhecimento incluíndo ambientes de missão critica, como datacenters.
+- Atualmente estou atuando como arquiteto de segurança em cloud, realizando provisionamento, administração, manutenção de sistemas e infraestrutura nos ambientes tradicionais e nuvem, trabalhando com ambientes de desenvolvimento, homologação, produção e em ambientes críticos e de alta disponibilidade.
+- Estou me especializando em Cyber Segurança Ofensiva, com o objetivo de estruturar melhor os processos de cyber segurança empresarial, com uma visão compartilhada de ataque e defesa, para que possa ser definido as melhores abordagens de cyber segurança, pois compreendendo os processos de ataques podemos estruturar e definir as melhor os processos de defesa, visando inclusive o processo de construção de aplicações seguras, seja para ambientes legados ou atuais com as principais ferramentas de mercado e cultural da área de cyber segurança.
+- Análise e gerenciamento dos riscos de segurança, com aplicação de boas práticas, criando e implementando manuais de procedimentos das atividades, documentação em espaço de colaboração visando melhorar a resposta a incidentes e manter o nível de serviço contratado.
+- Desenvolvimento de projetos para posturas de segurança, processos de automação para manutenção e gerenciamento dos ambientes, implementação de ferramentas de segurança, monitoramento do ambiente, troubleshooting, analises de segurança para os ambientes de forma preventiva.
+- Amplo conhecimento nas ferramentas Vagrant, Ansible, terraform, micro-serviços, elaboração de scripts, desenvolvimento seguro
+  
 Dessa maneira, para consolidar os meus conhecimentos e também fornecer para mim um guia de estudos, estou criando aqui no meu perfil uma Wiki, que vai me permitir tratar desses assuntos de forma mais organizada e de fácil acesso, no meu perfil. E caso alguém precise, que possa servir como referência de estudo e experiências.
 
 ### Certificações
