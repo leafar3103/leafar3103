@@ -1,13 +1,14 @@
 ## Olá Seja Muito Bem Vindo!!! 
-### Sou o Rafael residente em SP-Brasil 👋
-- Vasta experiência na área de TI, onde minha primeira experiência profissional registrada em TI data de 2005, em todos esses anos de experiência foram marcados por grandes processos de atualização e agregação de conhecimento incluíndo ambientes de missão critica, como datacenters.
-- Atualmente estou atuando como arquiteto de segurança em cloud, realizando provisionamento, administração, manutenção de sistemas e infraestrutura nos ambientes tradicionais e nuvem, trabalhando com ambientes de desenvolvimento, homologação, produção e em ambientes críticos e de alta disponibilidade.
-- Estou me especializando em Cyber Segurança Ofensiva, com o objetivo de estruturar melhor os processos de cyber segurança empresarial, com uma visão compartilhada de ataque e defesa, para que possa ser definido as melhores abordagens de cyber segurança, pois compreendendo os processos de ataques podemos estruturar e definir as melhor os processos de defesa, visando inclusive o processo de construção de aplicações seguras, seja para ambientes legados ou atuais com as principais ferramentas de mercado e cultural da área de cyber segurança.
-- Análise e gerenciamento dos riscos de segurança, com aplicação de boas práticas, criando e implementando manuais de procedimentos das atividades, documentação em espaço de colaboração visando melhorar a resposta a incidentes e manter o nível de serviço contratado.
-- Desenvolvimento de projetos para posturas de segurança, processos de automação para manutenção e gerenciamento dos ambientes, implementação de ferramentas de segurança, monitoramento do ambiente, troubleshooting, analises de segurança para os ambientes de forma preventiva.
-- Amplo conhecimento nas ferramentas Vagrant, Ansible, terraform, micro-serviços, elaboração de scripts, desenvolvimento seguro
-  
-Dessa maneira, para consolidar os meus conhecimentos e também fornecer para mim um guia de estudos, estou criando aqui no meu perfil uma Wiki, que vai me permitir tratar desses assuntos de forma mais organizada e de fácil acesso, no meu perfil. E caso alguém precise, que possa servir como referência de estudo e experiências.
+### Sou o Rafael Brasil 👋
+Com mais de 15 anos de experiência em TI, sou um especialista em cyber segurança com foco em ambientes cloud-native. Pós-graduado em Offensive Cyber Security – Red Team Operations (CRTT) pela FIAP, atuo como Engenheiro DevSecOps. Meu trabalho envolve a análise e implementação de melhorias na segurança, alinhando ambientes às melhores práticas e padrões de compliance, como ISO 27001, PCI-DSS, CIS Controls e OWASP Top 10 com a stack de segurança de cloud - Google SecOps.
+
+Possuo uma mentalidade analitica, aprendizado contínuo e curiosidade, essenciais para navegar no complexo mundo da cyber segurança. Essa abordagem me permite entender métodos exploratórios de atacantes e realizar avaliações e troubleshootings eficazes em ambientes de alta complexidade.
+
+Recentemente, enfrentei desafios na melhoria da segurança em ambientes Google Cloud Platform (GCP), focando na identificação da superfície de ataque, segmentação de ambientes e monitoramento contínuo com o Security Command Center (SCC). Isso incluiu a avaliação de findings, gestão de alertas, manutenção da conformidade e gerenciamento de risk score, tanto em ambientes internos quanto em projetos com clientes.
+
+Adicionalmente, enfrento o desafio de integrar, centralizar e analisar logs em ambientes cloud-native. Utilizo ferramentas avançadas de segurança do GCP, como o Google SecOps ( Chronicle ), para gerenciar e analisar ambientes e suas integrações, fornecendo suporte eficaz às equipes de Blue Team e assegurando uma postura de segurança robusta.
+
+Atualmente, estou me especializando em segurança voltada para arquitetura de microsserviços e ambientes cloud-native, com foco em Shift-Left Security, antecipando a segurança para as fases iniciais do desenvolvimento.
 
 ### Certificações
 <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/65547880"><img align="center" alt="Google-Associate" height="40" width="40" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65547880"> </a> Google Associate Cloud Engineer<br />
