@@ -23,8 +23,8 @@ Atualmente, estou me especializando em segurança voltada para arquitetura de mi
   <table>
     <tr>
   
-  <td><a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=leafar3103&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a></td>
-  <td><a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leafar3103&layout=compact&langs_count=7&theme=dark"/></a></td>
+  <td><a href="#"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leafar3103&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a></td>
+  <td><a href="#"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leafar3103&layout=compact&langs_count=7&theme=dark"/></a></td>
  </tr>
 </table>
 </div>
