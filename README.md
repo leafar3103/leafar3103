@@ -11,7 +11,7 @@ Adicionalmente, enfrento o desafio de integrar, centralizar e analisar logs em a
 Atualmente, estou me especializando em segurança voltada para arquitetura de microsserviços e ambientes cloud-native, com foco em Shift-Left Security, antecipando a segurança para as fases iniciais do desenvolvimento.
 
 ### Certificações
-<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/65547880"><img align="center" alt="Google-Associate" height="40" width="40" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65547880"> </a> Google Associate Cloud Engineer<br />
+<!-- <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/65547880"><img align="center" alt="Google-Associate" height="40" width="40" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65547880"> </a> Google Associate Cloud Engineer<br /> -->
 <a href="https://www.credly.com/badges/4cf517f5-7abe-44ba-8d40-e8959fc94f4c"><img align="center" alt="CyberOps" height="40" width="40" src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png"> </a> CyberOps Associate<br />
 <a href="https://www.credly.com/badges/3cd635da-6949-4f29-882a-a3062ec06a89"><img align="center" alt="Az-900" height="40" width="40" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"> </a> Az-900 Azure Fundamentals<br />
 <a href="https://www.credly.com/badges/e2f283f7-fb24-4a67-8d69-fdf91dedef57"><img align="center" alt="Ai-900" height="40" width="40" src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"> </a> Ai-900 Azure AI Fundamentals<br />
